@@ -11,8 +11,8 @@ To use ${\textsf{\color{orange}Flashback}}$, select a reference image from your 
 - ${\textsf{\color{orange}Flashback}}$ assists users in aligning the camera view to match the exact position and orientation of the reference image.
 
 ## User Interface
-![flashback-UI](https://github.com/user-attachments/assets/2fbf23cf-f126-4350-b647-2dec0ad6d37c)
-  
+<img src="https://github.com/user-attachments/assets/2fbf23cf-f126-4350-b647-2dec0ad6d37c" alt="flashback-UI" width="250" />
+
 ## Benefits
 
 - ${\textsf{\color{orange}Flashback}}$ ensures consistency in before and after photos, enhancing the accuracy of digital twin visualization.
