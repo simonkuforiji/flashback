@@ -1,4 +1,6 @@
-Introducing ${\textsf{\color{orange}Flashback}}$: Capture before and after photos effortlessly with our overlay feature. Maintain consistency in your digital twin updates with precise alignment guidance.
+## About
+
+${\textsf{\color{orange}Flashback}}$: Capture before and after photos effortlessly with our overlay feature. Maintain consistency in your digital twin updates with precise alignment guidance.
 
 To use ${\textsf{\color{orange}Flashback}}$, select a reference image from your phone's media library. This selected image is then overlaid onto the camera view, providing a visual guide for capturing the after photo. By aligning the camera view with the overlaid reference image, you can reproduce the angles and perspective of the previous capture with precision.
 
