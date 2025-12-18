@@ -38,6 +38,9 @@ To use ${\textsf{\color{orange}Flashback}}$, select a reference image from your 
 - After following the [Installation guide](#installation), in the project directory run `npx expo start` to initiate the development server.
 - Scan the QR code generated in the terminal, then click the link that redirects to the Expo go app on your mobile device.
 
+## App Demo
+https://youtu.be/87-7LiO_5bs
+
 ## Permissions
 
 ${\textsf{\color{orange}Flashback}}$ requires the following permissions:
@@ -51,5 +54,5 @@ ${\textsf{\color{orange}Flashback}}$ requires the following permissions:
 <br><br>
 
 <p align="center">
-<a href="https://reactnative.dev/"><img  alt="Kotlin" width="50px"  style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></a> <a href="https://expo.dev/"><img  alt="Expo" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/E/expo-go-app-logo-BBBE394CB8-seeklogo.com.png" />
+<a href="https://reactnative.dev/"><img  alt="Kotlin" width="50px"  style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></a> <a href="https://expo.dev/"><img  alt="Expo" width="50px" style="padding-right:10px;" src="https://images.seeklogo.com/logo-png/45/1/expo-go-app-logo-png_seeklogo-457073.png" />
 </p>
